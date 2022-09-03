@@ -21,6 +21,10 @@ export const Title = styled.h1`
   @media (min-width: calc(1024px)) {
     font-size: 3em;
   }
+
+  @media (min-width: calc(1440px)) {
+    font-size: 3.25em;
+  }
 `
 
 export const Synopsis = styled.p`
